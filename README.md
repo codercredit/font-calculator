@@ -18,7 +18,7 @@ Simply input the font size (px), line height (px), and letter spacing (%) to get
 ---
 
 ## Live Demo
-[Click here to view the application](#) *(https://font-calculator.vercel.app/)*
+[Click here to view the application](https://font-calculator.vercel.app/)
 
 ---
 
@@ -75,3 +75,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Author
 **Muhammad Mehadi Hassan**  
 Feel free to reach out with feedback or questions!
+
+---
+
+## Repository
+- GitHub: [https://github.com/codercredit/font-calculator](https://github.com/codercredit/font-calculator)
