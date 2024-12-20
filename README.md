@@ -18,7 +18,7 @@ Simply input the font size (px), line height (px), and letter spacing (%) to get
 ---
 
 ## Live Demo
-[Click here to view the application](#) *(Add the live link here if hosted)*
+[Click here to view the application](#) *(https://font-calculator.vercel.app/)*
 
 ---
 
